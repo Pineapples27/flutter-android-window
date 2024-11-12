@@ -1,5 +1,4 @@
 .DS_Store
-.dart_tool/
 
 .packages
 .pub/
@@ -8,7 +7,5 @@ build/
 
 .idea/
 *.iml
-*.g.dart
 .metadata
 pubspec.lock
-Pigeon.java
